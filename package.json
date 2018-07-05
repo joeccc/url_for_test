@@ -1,0 +1,9 @@
+{
+  "name": "url_for_test",
+  "version": "1.0.0",
+  "description": "Just for testing",
+  "main": "./main.js",
+  "repository": "https://github.com/joeccc/url_for_test.git",
+  "author": "CCC <ccc.joe@gmail.com>",
+  "license": "MIT"
+}
